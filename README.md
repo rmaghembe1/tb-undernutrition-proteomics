@@ -58,4 +58,6 @@ The public Python scripts are licensed under the MIT License. Original non-code 
 
 Machine-readable citation metadata are provided in `CITATION.cff`.
 
-The repository DOI, repository URL, release date, and associated-manuscript citation will be added when those records are formally established.
+Repository: https://github.com/rmaghembe1/tb-undernutrition-proteomics
+
+The repository DOI, release date, and associated-manuscript citation will be added when those records are formally established.
