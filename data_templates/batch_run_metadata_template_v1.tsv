@@ -1,0 +1,2 @@
+sample_id	batch_id	run_id	plate_or_TMT_plex	acquisition_date	depletion_or_processing_batch	notes
+S001_baseline						Optional but useful for sensitivity analysis.

@@ -1,0 +1,15 @@
+# Tested public-release environment
+# These pins describe the environment audited on 2026-09-10.
+# They do not claim to reconstruct the historical analysis environment.
+
+numpy==2.3.2
+pandas==2.3.3
+scipy==1.16.1
+statsmodels==0.14.6
+matplotlib==3.10.5
+Pillow==11.3.0
+openpyxl==3.1.5
+xlrd==2.0.2
+
+# Optional Parquet/Feather support requires a compatible engine such as pyarrow.
+# pyarrow and fastparquet were not installed in the audited release environment.

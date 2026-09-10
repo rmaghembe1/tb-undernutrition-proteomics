@@ -1,0 +1,31 @@
+TB Undernutrition Proteomics Computational Companion
+Licensing notice
+
+This repository uses separate licenses for software and original non-code research materials.
+
+1. Software
+
+The Python source files under `scripts/` are licensed under the MIT License.
+The complete license text is provided in `LICENSES/MIT.txt`.
+SPDX-License-Identifier: MIT
+
+2. Original non-code repository materials
+
+Except where otherwise stated, original non-code materials created for this computational companion are licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
+This includes original repository documentation, generic templates, public aggregate analytical outputs, participant-independent module definitions, provenance documentation, and original publication-facing figure files included in this repository, to the extent that the repository contributors are entitled to license those materials.
+
+The license notice is provided in `LICENSES/CC-BY-4.0.txt`.
+SPDX-License-Identifier: CC-BY-4.0
+
+3. Exclusions and third-party rights
+
+These licenses do not grant rights in collaborator-supplied processed proteomics data, participant-level clinical data, TMT linkage files, underlying source-study mass-spectrometry data, third-party publications, or any other material not distributed as part of this repository.
+
+The source-study mass-spectrometry data remain subject to the terms of their source repositories and applicable rights holders.
+
+Where a file contains or incorporates third-party material, the rights and license applicable to that third-party material take precedence over this repository-level notice.
+
+4. Attribution
+
+When reusing material from this computational companion, please cite the repository release and associated publication when available, and retain the applicable license notice.

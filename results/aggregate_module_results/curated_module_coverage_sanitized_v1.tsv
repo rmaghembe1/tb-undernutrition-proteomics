@@ -1,0 +1,12 @@
+module_id	module_label	mapped_proteins
+M01_curated_inflammatory_acute_phase	Curated inflammatory and acute-phase response	15
+M02_curated_lipid_apolipoprotein_transport	Curated lipid, cholesterol and apolipoprotein transport	21
+M03a_curated_retinol_carrier_strict	Curated retinol carrier strict	2
+M03b_curated_nutrition_carrier_broad	Curated nutrition carrier broad	9
+M05_curated_complement_coagulation	Curated complement, coagulation and hemostasis	29
+M06_curated_ecm_vascular_repair	Curated ECM, vascular biology and tissue repair	9
+M08_curated_lysosome_autophagy_proxy	Curated lysosome, autophagy and xenophagy proxy	9
+M09_curated_hla_proteasome_antigen	Curated HLA, proteasome and antigen presentation	4
+M11_curated_metal_nutritional_immunity	Curated metal handling and nutritional immunity	8
+M12_curated_vitaminD_AMP_humoral	Curated vitamin D, antimicrobial peptide and humoral proxy	8
+M13_curated_endocrine_immunometabolic	Curated endocrine and systemic immunometabolic signalling	15

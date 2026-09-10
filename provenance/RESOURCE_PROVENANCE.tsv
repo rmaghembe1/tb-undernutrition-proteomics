@@ -1,0 +1,2 @@
+resource	private_source_sha256	public_sha256	rows	publicability_basis
+resources/curated_legacy_module_mapping.tsv	35dcf89824294b1d52b6b091015a7ee2e88d2fffcf18ec40246a55f32fc4b48a	35dcf89824294b1d52b6b091015a7ee2e88d2fffcf18ec40246a55f32fc4b48a	129	module/protein-level definitions only; no participant/sample/clinical fields

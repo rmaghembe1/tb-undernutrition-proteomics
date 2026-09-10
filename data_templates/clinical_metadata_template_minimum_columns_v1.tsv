@@ -1,0 +1,2 @@
+participant_id	sample_id	time_point	week_numeric	baseline_BMI	BMI_group	age	sex	HIV_status	site_or_cohort	smear_status	culture_status	cavity	disease_severity	notes
+P001	S001_baseline	baseline_or_week0	0	17.2	auto_define_BMI_lt_18_5_after_import									Example row only. Replace with real metadata.

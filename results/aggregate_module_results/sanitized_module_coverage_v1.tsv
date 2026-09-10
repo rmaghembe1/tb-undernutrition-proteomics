@@ -1,0 +1,14 @@
+module_id	module_label	mapped_proteins
+M01_inflammatory_acute_phase	Inflammatory resolution and acute-phase response	10
+M02_lipid_apolipoprotein_transport	Lipid, cholesterol and apolipoprotein transport	21
+M03_retinol_carrier_nutrition	Retinol, vitamin A and carrier-protein biology	2
+M05_complement_coagulation_hemostasis	Complement, coagulation and hemostasis	26
+M06_ecm_vascular_tissue_repair	ECM, vascular biology, tissue repair and fibrosis	18
+M07_phagocytosis_opsonophagocytosis_endocytosis	Phagocytosis, opsonophagocytosis and endocytosis	26
+M08_lysosome_autophagy_xenophagy_proxy	Lysosome, autophagy and xenophagy proxy	5
+M09_antigen_processing_hla_proteasome	HLA/MHC, proteasome and antigen presentation	11
+M10_macrophage_immunometabolism_mitochondrial	Macrophage immunometabolism and mitochondrial rewiring	23
+M12_vitaminD_AMP_mucosal_humoral	Vitamin D, antimicrobial peptide and mucosal/humoral immunity proxy	7
+M13_endocrine_systemic_immunometabolic	Endocrine and systemic immunometabolic signalling	15
+M14_vesicles_exosomes_trafficking	Vesicles, exosomes and protein/lipid trafficking	16
+M15_treatment_response_pk_safety_proxy	Treatment response, drug handling and safety proxy	17

@@ -1,0 +1,2 @@
+participant_id	culture_conversion_week	cure_status	relapse	treatment_failure	adverse_event	notes
+P001						Optional. Not required for primary recovery-lag analysis.

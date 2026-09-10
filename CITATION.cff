@@ -1,0 +1,17 @@
+cff-version: "1.2.0"
+message: "If you use this computational companion, please cite this repository release. Cite the associated research article separately when available."
+title: "TB Undernutrition Proteomics Computational Companion"
+type: software
+version: "1.0.0"
+authors:
+  - family-names: "Maghembe"
+    given-names: "Reuben S."
+abstract: "Portable publication-facing computational companion for longitudinal secondary analysis of serum proteomics during tuberculosis treatment across BMI-defined undernutrition strata. The repository contains sanitized aggregate outputs, a participant-independent curated module mapping, and the final four-stage analytical workflow."
+keywords:
+  - tuberculosis
+  - undernutrition
+  - serum proteomics
+  - longitudinal analysis
+  - nutritional-metabolic recovery
+  - computational reproducibility
+license: MIT

@@ -1,0 +1,12 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Except where otherwise stated in the repository licensing notice or within a specific file, original non-code material in this computational companion is licensed under the Creative Commons Attribution 4.0 International License.
+
+SPDX-License-Identifier: CC-BY-4.0
+
+Canonical license:
+https://creativecommons.org/licenses/by/4.0/
+
+Under CC BY 4.0, licensed material may be shared and adapted, including for commercial purposes, provided appropriate attribution is given, a link to the license is supplied, and changes are indicated.
+
+This license applies only to material for which the repository contributors are authorized to grant these rights. It does not apply to excluded collaborator-supplied data, source-study data, or third-party material governed by separate terms.

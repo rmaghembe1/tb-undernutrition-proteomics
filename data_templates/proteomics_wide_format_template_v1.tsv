@@ -1,0 +1,2 @@
+protein_id	gene_symbol	protein_name	S001_baseline	S001_week8	notes
+P02647	APOA1	Apolipoprotein A-I	example_numeric_value	example_numeric_value	Example row only. Add one column per sample.

@@ -1,0 +1,2 @@
+protein_id	gene_symbol	protein_name	uniprot_id	module_id	module_family	notes
+P02647	APOA1	Apolipoprotein A-I	P02647	M02	Lipid, cholesterol and apolipoprotein transport	Example row only. Real annotation can be generated after import.

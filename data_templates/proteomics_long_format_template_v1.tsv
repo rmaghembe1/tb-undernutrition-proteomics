@@ -1,0 +1,2 @@
+sample_id	protein_id	gene_symbol	protein_name	abundance	abundance_scale	notes
+S001_baseline	P02647	APOA1	Apolipoprotein A-I	example_numeric_value	log2_or_raw_or_normalized	Example row only. Replace with real long-format abundance data.

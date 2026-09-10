@@ -1,0 +1,130 @@
+module_id	module_label	protein_row_id	mnemonic	gene_symbol_curated
+M01_curated_inflammatory_acute_phase	Curated inflammatory and acute-phase response	A1AG1_HUMAN	A1AG1	ORM1
+M01_curated_inflammatory_acute_phase	Curated inflammatory and acute-phase response	A1AG2_HUMAN	A1AG2	ORM2
+M01_curated_inflammatory_acute_phase	Curated inflammatory and acute-phase response	A2MG_HUMAN	A2MG	A2M
+M03b_curated_nutrition_carrier_broad	Curated nutrition carrier broad	AFAM_HUMAN	AFAM	AFM
+M03b_curated_nutrition_carrier_broad	Curated nutrition carrier broad	ALBU_HUMAN	ALBU	ALB
+M11_curated_metal_nutritional_immunity	Curated metal handling and nutritional immunity	ALBU_HUMAN	ALBU	ALB
+M13_curated_endocrine_immunometabolic	Curated endocrine and systemic immunometabolic signalling	ALBU_HUMAN	ALBU	ALB
+M02_curated_lipid_apolipoprotein_transport	Curated lipid, cholesterol and apolipoprotein transport	APOA1_HUMAN	APOA1	APOA1
+M03b_curated_nutrition_carrier_broad	Curated nutrition carrier broad	APOA1_HUMAN	APOA1	APOA1
+M13_curated_endocrine_immunometabolic	Curated endocrine and systemic immunometabolic signalling	APOA1_HUMAN	APOA1	APOA1
+M02_curated_lipid_apolipoprotein_transport	Curated lipid, cholesterol and apolipoprotein transport	APOA2_HUMAN	APOA2	APOA2
+M03b_curated_nutrition_carrier_broad	Curated nutrition carrier broad	APOA2_HUMAN	APOA2	APOA2
+M13_curated_endocrine_immunometabolic	Curated endocrine and systemic immunometabolic signalling	APOA2_HUMAN	APOA2	APOA2
+M02_curated_lipid_apolipoprotein_transport	Curated lipid, cholesterol and apolipoprotein transport	APOA4_HUMAN	APOA4	APOA4
+M03b_curated_nutrition_carrier_broad	Curated nutrition carrier broad	APOA4_HUMAN	APOA4	APOA4
+M02_curated_lipid_apolipoprotein_transport	Curated lipid, cholesterol and apolipoprotein transport	APOA5_HUMAN	APOA5	APOA5
+M02_curated_lipid_apolipoprotein_transport	Curated lipid, cholesterol and apolipoprotein transport	APOB_HUMAN	APOB	APOB
+M02_curated_lipid_apolipoprotein_transport	Curated lipid, cholesterol and apolipoprotein transport	APOC1_HUMAN	APOC1	APOC1
+M02_curated_lipid_apolipoprotein_transport	Curated lipid, cholesterol and apolipoprotein transport	APOC2_HUMAN	APOC2	APOC2
+M02_curated_lipid_apolipoprotein_transport	Curated lipid, cholesterol and apolipoprotein transport	APOC3_HUMAN	APOC3	APOC3
+M13_curated_endocrine_immunometabolic	Curated endocrine and systemic immunometabolic signalling	APOC3_HUMAN	APOC3	APOC3
+M02_curated_lipid_apolipoprotein_transport	Curated lipid, cholesterol and apolipoprotein transport	APOC4_HUMAN	APOC4	APOC4
+M02_curated_lipid_apolipoprotein_transport	Curated lipid, cholesterol and apolipoprotein transport	APOD_HUMAN	APOD	APOD
+M02_curated_lipid_apolipoprotein_transport	Curated lipid, cholesterol and apolipoprotein transport	APOE_HUMAN	APOE	APOE
+M02_curated_lipid_apolipoprotein_transport	Curated lipid, cholesterol and apolipoprotein transport	APOF_HUMAN	APOF	APOF
+M02_curated_lipid_apolipoprotein_transport	Curated lipid, cholesterol and apolipoprotein transport	APOH_HUMAN	APOH	APOH
+M02_curated_lipid_apolipoprotein_transport	Curated lipid, cholesterol and apolipoprotein transport	APOL1_HUMAN	APOL1	APOL1
+M02_curated_lipid_apolipoprotein_transport	Curated lipid, cholesterol and apolipoprotein transport	APOM_HUMAN	APOM	APOM
+M09_curated_hla_proteasome_antigen	Curated HLA, proteasome and antigen presentation	B2MG_HUMAN	B2MG	B2M
+M05_curated_complement_coagulation	Curated complement, coagulation and hemostasis	C1QA_HUMAN	C1QA	C1QA
+M05_curated_complement_coagulation	Curated complement, coagulation and hemostasis	C1QB_HUMAN	C1QB	C1QB
+M05_curated_complement_coagulation	Curated complement, coagulation and hemostasis	C1QC_HUMAN	C1QC	C1QC
+M05_curated_complement_coagulation	Curated complement, coagulation and hemostasis	C1R_HUMAN	C1R	C1R
+M05_curated_complement_coagulation	Curated complement, coagulation and hemostasis	C1S_HUMAN	C1S	C1S
+M05_curated_complement_coagulation	Curated complement, coagulation and hemostasis	C4BPA_HUMAN	C4BPA	C4BPA
+M05_curated_complement_coagulation	Curated complement, coagulation and hemostasis	C4BPB_HUMAN	C4BPB	C4BPB
+M09_curated_hla_proteasome_antigen	Curated HLA, proteasome and antigen presentation	CALR_HUMAN	CALR	CALR
+M12_curated_vitaminD_AMP_humoral	Curated vitamin D, antimicrobial peptide and humoral proxy	CAMP_HUMAN	CAMP	CAMP
+M08_curated_lysosome_autophagy_proxy	Curated lysosome, autophagy and xenophagy proxy	CATB_HUMAN	CATB	CTSB
+M08_curated_lysosome_autophagy_proxy	Curated lysosome, autophagy and xenophagy proxy	CATD_HUMAN	CATD	CTSD
+M08_curated_lysosome_autophagy_proxy	Curated lysosome, autophagy and xenophagy proxy	CATS_HUMAN	CATS	CTSS
+M02_curated_lipid_apolipoprotein_transport	Curated lipid, cholesterol and apolipoprotein transport	CETP_HUMAN	CETP	CETP
+M05_curated_complement_coagulation	Curated complement, coagulation and hemostasis	CFAB_HUMAN	CFAB	CFB
+M05_curated_complement_coagulation	Curated complement, coagulation and hemostasis	CFAH_HUMAN	CFAH	CFH
+M05_curated_complement_coagulation	Curated complement, coagulation and hemostasis	CFAI_HUMAN	CFAI	CFI
+M02_curated_lipid_apolipoprotein_transport	Curated lipid, cholesterol and apolipoprotein transport	CLUS_HUMAN	CLUS	CLU
+M05_curated_complement_coagulation	Curated complement, coagulation and hemostasis	CLUS_HUMAN	CLUS	CLU
+M05_curated_complement_coagulation	Curated complement, coagulation and hemostasis	CO3_HUMAN	CO3	C3
+M05_curated_complement_coagulation	Curated complement, coagulation and hemostasis	CO4A_HUMAN	CO4A	C4A
+M05_curated_complement_coagulation	Curated complement, coagulation and hemostasis	CO4B_HUMAN	CO4B	C4B
+M05_curated_complement_coagulation	Curated complement, coagulation and hemostasis	CO5_HUMAN	CO5	C5
+M05_curated_complement_coagulation	Curated complement, coagulation and hemostasis	CO6_HUMAN	CO6	C6
+M05_curated_complement_coagulation	Curated complement, coagulation and hemostasis	CO7_HUMAN	CO7	C7
+M05_curated_complement_coagulation	Curated complement, coagulation and hemostasis	CO8A_HUMAN	CO8A	C8A
+M05_curated_complement_coagulation	Curated complement, coagulation and hemostasis	CO8B_HUMAN	CO8B	C8B
+M05_curated_complement_coagulation	Curated complement, coagulation and hemostasis	CO8G_HUMAN	CO8G	C8G
+M05_curated_complement_coagulation	Curated complement, coagulation and hemostasis	CO9_HUMAN	CO9	C9
+M01_curated_inflammatory_acute_phase	Curated inflammatory and acute-phase response	CRP_HUMAN	CRP	CRP
+M09_curated_hla_proteasome_antigen	Curated HLA, proteasome and antigen presentation	ERAP1_HUMAN	ERAP1	ERAP1
+M09_curated_hla_proteasome_antigen	Curated HLA, proteasome and antigen presentation	ERAP2_HUMAN	ERAP2	ERAP2
+M05_curated_complement_coagulation	Curated complement, coagulation and hemostasis	F13B_HUMAN	F13B	F13B
+M06_curated_ecm_vascular_repair	Curated ECM, vascular biology and tissue repair	FBLN1_HUMAN	FBLN1	FBLN1
+M01_curated_inflammatory_acute_phase	Curated inflammatory and acute-phase response	FIBA_HUMAN	FIBA	FGA
+M05_curated_complement_coagulation	Curated complement, coagulation and hemostasis	FIBA_HUMAN	FIBA	FGA
+M01_curated_inflammatory_acute_phase	Curated inflammatory and acute-phase response	FIBB_HUMAN	FIBB	FGB
+M05_curated_complement_coagulation	Curated complement, coagulation and hemostasis	FIBB_HUMAN	FIBB	FGB
+M01_curated_inflammatory_acute_phase	Curated inflammatory and acute-phase response	FIBG_HUMAN	FIBG	FGG
+M05_curated_complement_coagulation	Curated complement, coagulation and hemostasis	FIBG_HUMAN	FIBG	FGG
+M11_curated_metal_nutritional_immunity	Curated metal handling and nutritional immunity	HEMO_HUMAN	HEMO	HPX
+M08_curated_lysosome_autophagy_proxy	Curated lysosome, autophagy and xenophagy proxy	HEXA_HUMAN	HEXA	HEXA
+M08_curated_lysosome_autophagy_proxy	Curated lysosome, autophagy and xenophagy proxy	HEXB_HUMAN	HEXB	HEXB
+M01_curated_inflammatory_acute_phase	Curated inflammatory and acute-phase response	HPT_HUMAN	HPT	HP
+M11_curated_metal_nutritional_immunity	Curated metal handling and nutritional immunity	HPT_HUMAN	HPT	HP
+M13_curated_endocrine_immunometabolic	Curated endocrine and systemic immunometabolic signalling	IBP3_HUMAN	IBP3	IGFBP3
+M13_curated_endocrine_immunometabolic	Curated endocrine and systemic immunometabolic signalling	IBP4_HUMAN	IBP4	IGFBP4
+M13_curated_endocrine_immunometabolic	Curated endocrine and systemic immunometabolic signalling	IBP5_HUMAN	IBP5	IGFBP5
+M13_curated_endocrine_immunometabolic	Curated endocrine and systemic immunometabolic signalling	IBP6_HUMAN	IBP6	IGFBP6
+M06_curated_ecm_vascular_repair	Curated ECM, vascular biology and tissue repair	ICAM1_HUMAN	ICAM1	ICAM1
+M13_curated_endocrine_immunometabolic	Curated endocrine and systemic immunometabolic signalling	IGF1_HUMAN	IGF1	IGF1
+M13_curated_endocrine_immunometabolic	Curated endocrine and systemic immunometabolic signalling	IGF2_HUMAN	IGF2	IGF2
+M12_curated_vitaminD_AMP_humoral	Curated vitamin D, antimicrobial peptide and humoral proxy	IGHA1_HUMAN	IGHA1	IGHA1
+M12_curated_vitaminD_AMP_humoral	Curated vitamin D, antimicrobial peptide and humoral proxy	IGHA2_HUMAN	IGHA2	IGHA2
+M12_curated_vitaminD_AMP_humoral	Curated vitamin D, antimicrobial peptide and humoral proxy	IGHG2_HUMAN	IGHG2	IGHG2
+M12_curated_vitaminD_AMP_humoral	Curated vitamin D, antimicrobial peptide and humoral proxy	IGHG3_HUMAN	IGHG3	IGHG3
+M12_curated_vitaminD_AMP_humoral	Curated vitamin D, antimicrobial peptide and humoral proxy	IGHG4_HUMAN	IGHG4	IGHG4
+M12_curated_vitaminD_AMP_humoral	Curated vitamin D, antimicrobial peptide and humoral proxy	IGKC_HUMAN	IGKC	IGKC
+M01_curated_inflammatory_acute_phase	Curated inflammatory and acute-phase response	ITIH1_HUMAN	ITIH1	ITIH1
+M01_curated_inflammatory_acute_phase	Curated inflammatory and acute-phase response	ITIH2_HUMAN	ITIH2	ITIH2
+M01_curated_inflammatory_acute_phase	Curated inflammatory and acute-phase response	ITIH3_HUMAN	ITIH3	ITIH3
+M01_curated_inflammatory_acute_phase	Curated inflammatory and acute-phase response	ITIH4_HUMAN	ITIH4	ITIH4
+M08_curated_lysosome_autophagy_proxy	Curated lysosome, autophagy and xenophagy proxy	LAMP1_HUMAN	LAMP1	LAMP1
+M08_curated_lysosome_autophagy_proxy	Curated lysosome, autophagy and xenophagy proxy	LAMP2_HUMAN	LAMP2	LAMP2
+M01_curated_inflammatory_acute_phase	Curated inflammatory and acute-phase response	LBP_HUMAN	LBP	LBP
+M02_curated_lipid_apolipoprotein_transport	Curated lipid, cholesterol and apolipoprotein transport	LCAT_HUMAN	LCAT	LCAT
+M13_curated_endocrine_immunometabolic	Curated endocrine and systemic immunometabolic signalling	LEP_HUMAN	LEP	LEP
+M13_curated_endocrine_immunometabolic	Curated endocrine and systemic immunometabolic signalling	LEPR_HUMAN	LEPR	LEPR
+M06_curated_ecm_vascular_repair	Curated ECM, vascular biology and tissue repair	LUM_HUMAN	LUM	LUM
+M05_curated_complement_coagulation	Curated complement, coagulation and hemostasis	MASP1_HUMAN	MASP1	MASP1
+M05_curated_complement_coagulation	Curated complement, coagulation and hemostasis	MASP2_HUMAN	MASP2	MASP2
+M05_curated_complement_coagulation	Curated complement, coagulation and hemostasis	MBL2_HUMAN	MBL2	MBL2
+M06_curated_ecm_vascular_repair	Curated ECM, vascular biology and tissue repair	MMP2_HUMAN	MMP2	MMP2
+M06_curated_ecm_vascular_repair	Curated ECM, vascular biology and tissue repair	MMP9_HUMAN	MMP9	MMP9
+M08_curated_lysosome_autophagy_proxy	Curated lysosome, autophagy and xenophagy proxy	NPC2_HUMAN	NPC2	NPC2
+M11_curated_metal_nutritional_immunity	Curated metal handling and nutritional immunity	PERM_HUMAN	PERM	MPO
+M02_curated_lipid_apolipoprotein_transport	Curated lipid, cholesterol and apolipoprotein transport	PLTP_HUMAN	PLTP	PLTP
+M02_curated_lipid_apolipoprotein_transport	Curated lipid, cholesterol and apolipoprotein transport	PON1_HUMAN	PON1	PON1
+M02_curated_lipid_apolipoprotein_transport	Curated lipid, cholesterol and apolipoprotein transport	PON3_HUMAN	PON3	PON3
+M06_curated_ecm_vascular_repair	Curated ECM, vascular biology and tissue repair	POSTN_HUMAN	POSTN	POSTN
+M05_curated_complement_coagulation	Curated complement, coagulation and hemostasis	PROC_HUMAN	PROC	PROC
+M03a_curated_retinol_carrier_strict	Curated retinol carrier strict	RET4_HUMAN	RET4	RBP4
+M03b_curated_nutrition_carrier_broad	Curated nutrition carrier broad	RET4_HUMAN	RET4	RBP4
+M13_curated_endocrine_immunometabolic	Curated endocrine and systemic immunometabolic signalling	RET4_HUMAN	RET4	RBP4
+M11_curated_metal_nutritional_immunity	Curated metal handling and nutritional immunity	S10A8_HUMAN	S10A8	S100A8
+M11_curated_metal_nutritional_immunity	Curated metal handling and nutritional immunity	S10A9_HUMAN	S10A9	S100A9
+M11_curated_metal_nutritional_immunity	Curated metal handling and nutritional immunity	S10AC_HUMAN	S10AC	S100A12
+M01_curated_inflammatory_acute_phase	Curated inflammatory and acute-phase response	SAA1_HUMAN	SAA1	SAA1
+M01_curated_inflammatory_acute_phase	Curated inflammatory and acute-phase response	SAA2_HUMAN	SAA2	SAA2
+M08_curated_lysosome_autophagy_proxy	Curated lysosome, autophagy and xenophagy proxy	SAP_HUMAN	SAP	PSAP
+M13_curated_endocrine_immunometabolic	Curated endocrine and systemic immunometabolic signalling	SHBG_HUMAN	SHBG	SHBG
+M06_curated_ecm_vascular_repair	Curated ECM, vascular biology and tissue repair	TIMP1_HUMAN	TIMP1	TIMP1
+M06_curated_ecm_vascular_repair	Curated ECM, vascular biology and tissue repair	TIMP2_HUMAN	TIMP2	TIMP2
+M03b_curated_nutrition_carrier_broad	Curated nutrition carrier broad	TRFE_HUMAN	TRFE	TF
+M11_curated_metal_nutritional_immunity	Curated metal handling and nutritional immunity	TRFE_HUMAN	TRFE	TF
+M03a_curated_retinol_carrier_strict	Curated retinol carrier strict	TTHY_HUMAN	TTHY	TTR
+M03b_curated_nutrition_carrier_broad	Curated nutrition carrier broad	TTHY_HUMAN	TTHY	TTR
+M13_curated_endocrine_immunometabolic	Curated endocrine and systemic immunometabolic signalling	TTHY_HUMAN	TTHY	TTR
+M06_curated_ecm_vascular_repair	Curated ECM, vascular biology and tissue repair	VCAM1_HUMAN	VCAM1	VCAM1
+M03b_curated_nutrition_carrier_broad	Curated nutrition carrier broad	VTDB_HUMAN	VTDB	GC
+M12_curated_vitaminD_AMP_humoral	Curated vitamin D, antimicrobial peptide and humoral proxy	VTDB_HUMAN	VTDB	GC

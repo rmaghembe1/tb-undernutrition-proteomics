@@ -1,0 +1,10 @@
+metric	value	statistic_or_unit	interpretation
+preferred_axis	three_module_core_unique_protein_pc1	identifier	Publication-facing unique-protein recovery axis
+module_score_pc1_variance_explained	0.8647605109175951	proportion	Variance explained across three module scores
+unique_protein_pc1_variance_explained	0.2398981601130614	proportion	Variance explained across 36 unique proteins
+module_score_vs_unique_protein_pc1	0.9569545313125029	Spearman rho	Robustness to overlap-controlled protein-level reconstruction
+core_vs_redox_extended_pc1	0.9641086270500911	Spearman rho	Robustness to addition of heterogeneous redox/ECM extension
+baseline_bmi_group_test	0.4202812369543599	Welch p-value	No significant baseline axis difference by BMI category
+baseline_continuous_bmi_correlation	0.3032258064516129	Spearman rho	p=0.1033393133556305; no significant baseline association
+categorical_bmi_time_interaction_decision	not significant after BH-FDR	model family conclusion	No evidence that baseline BMI group modified recovery trajectory
+continuous_bmi_time_interaction_decision	not significant after BH-FDR	model family conclusion	No evidence that continuous baseline BMI modified recovery trajectory

@@ -1,0 +1,48 @@
+# Private or participant-level material: never commit
+private/
+raw/
+raw_data/
+source_data/
+clinical_data/
+participant_data/
+sample_level/
+subject_level/
+patient_level/
+Reviews/
+review/
+correspondence/
+email/
+
+# Generated analytical workspace
+01_manuscript/drafts/
+02_tables/
+03_figures/draft_panels/
+03_figures/final_png/phase_*/
+03_figures/final_tiff/phase_*/
+03_figures/final_svg/phase_*/
+03_figures/final_pdf/phase_*/
+03_figures/preview_png/
+03_figures/figure_specs/phase_*/
+05_results/
+05_docs_decision_logs/
+
+# Common potentially restricted data containers
+*.xlsx
+*.xls
+*.zip
+*.7z
+*.tar
+*.tar.gz
+*.parquet
+*.feather
+
+# Runtime and editor artifacts
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+*~
+.r5d_tmp.*

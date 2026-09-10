@@ -1,0 +1,105 @@
+module_id	module_label	visit_week	baseline_bmi_group	n	mean_delta_from_week0	sd_delta_from_week0	one_sample_t_p_vs_zero	one_sample_t_q_BH_global
+M01_inflammatory_acute_phase	Inflammatory resolution and acute-phase response	8	BMI_ge_18_5	17	-0.4098999042174753	0.552993189228071	0.0075402895179213	0.0264328254243979
+M10_macrophage_immunometabolism_mitochondrial	Macrophage immunometabolism and mitochondrial rewiring	8	BMI_ge_18_5	17	-0.2733308693682634	0.4702109311801851	0.0291076511911403	0.0617795045689509
+M14_vesicles_exosomes_trafficking	Vesicles, exosomes and protein/lipid trafficking	8	BMI_ge_18_5	17	-0.1460362246498336	0.3838876717172735	0.1363302323279616	0.1915992454338919
+M09_antigen_processing_hla_proteasome	HLA/MHC, proteasome and antigen presentation	8	BMI_ge_18_5	17	-0.0854747405888357	0.2840560794628942	0.2326106865865914	0.2914639928313916
+M07_phagocytosis_opsonophagocytosis_endocytosis	Phagocytosis, opsonophagocytosis and endocytosis	8	BMI_ge_18_5	17	-0.0582057136927246	0.1863806178434043	0.2161903273518535	0.2775777042542316
+M12_vitaminD_AMP_mucosal_humoral	Vitamin D, antimicrobial peptide and mucosal/humoral immunity proxy	8	BMI_ge_18_5	17	-0.0481449985407943	0.3148215727357583	0.5372455510769725	0.5820160136667202
+M15_treatment_response_pk_safety_proxy	Treatment response, drug handling and safety proxy	8	BMI_ge_18_5	17	0.0616255569040885	0.3924093246621565	0.5264848047917816	0.5763623126141609
+M05_complement_coagulation_hemostasis	Complement, coagulation and hemostasis	8	BMI_ge_18_5	17	0.1891363852043484	0.5108517277413056	0.1464029222224204	0.2003408409359437
+M02_lipid_apolipoprotein_transport	Lipid, cholesterol and apolipoprotein transport	8	BMI_ge_18_5	17	0.2004811098584178	0.4568557735487464	0.0892251682053019	0.1449908983336156
+M03_retinol_carrier_nutrition	Retinol, vitamin A and carrier-protein biology	8	BMI_ge_18_5	17	0.2125619590099342	0.9355367253536824	0.3627850388252361	0.4056950971809093
+M13_endocrine_systemic_immunometabolic	Endocrine and systemic immunometabolic signalling	8	BMI_ge_18_5	17	0.2739586977753961	0.4544109536867853	0.0243613267715689	0.0539059145583653
+M06_ecm_vascular_tissue_repair	ECM, vascular biology, tissue repair and fibrosis	8	BMI_ge_18_5	17	0.2874303298865119	0.5317493496433521	0.0405228484767687	0.0780440044737768
+M08_lysosome_autophagy_xenophagy_proxy	Lysosome, autophagy and xenophagy proxy	8	BMI_ge_18_5	17	0.2908340238993322	0.4246852840517623	0.0122308430337858	0.0318001918878431
+M01_inflammatory_acute_phase	Inflammatory resolution and acute-phase response	8	BMI_lt_18_5	13	-0.5246776676435936	0.5332151931839502	0.0040126887183589	0.0167139629565698
+M10_macrophage_immunometabolism_mitochondrial	Macrophage immunometabolism and mitochondrial rewiring	8	BMI_lt_18_5	13	-0.2138060494386769	0.4496373725756414	0.1121288245412404	0.1642450387646338
+M03_retinol_carrier_nutrition	Retinol, vitamin A and carrier-protein biology	8	BMI_lt_18_5	13	-0.1799383599070342	0.5258262544585475	0.2408882244036657	0.2982425635473956
+M14_vesicles_exosomes_trafficking	Vesicles, exosomes and protein/lipid trafficking	8	BMI_lt_18_5	13	-0.1367746311271149	0.3467846011116685	0.180477562313822	0.2406367497517627
+M15_treatment_response_pk_safety_proxy	Treatment response, drug handling and safety proxy	8	BMI_lt_18_5	13	-0.071452159003656	0.2318519604652062	0.2882676315997236	0.3331092631819028
+M09_antigen_processing_hla_proteasome	HLA/MHC, proteasome and antigen presentation	8	BMI_lt_18_5	13	-0.0626204034489138	0.1863096319178464	0.2488886317143057	0.304522561156327
+M02_lipid_apolipoprotein_transport	Lipid, cholesterol and apolipoprotein transport	8	BMI_lt_18_5	13	-0.0311057545055046	0.4028061303053798	0.7854218215090468	0.8221858819840863
+M07_phagocytosis_opsonophagocytosis_endocytosis	Phagocytosis, opsonophagocytosis and endocytosis	8	BMI_lt_18_5	13	-0.0248251059630631	0.2351953408699703	0.7101738221661071	0.7536538520946444
+M12_vitaminD_AMP_mucosal_humoral	Vitamin D, antimicrobial peptide and mucosal/humoral immunity proxy	8	BMI_lt_18_5	13	-0.0214211304327224	0.2843949430906059	0.7905633480616214	0.8221858819840863
+M13_endocrine_systemic_immunometabolic	Endocrine and systemic immunometabolic signalling	8	BMI_lt_18_5	13	0.1052890925611864	0.3263598209086008	0.2673531812346912	0.3159628505500897
+M08_lysosome_autophagy_xenophagy_proxy	Lysosome, autophagy and xenophagy proxy	8	BMI_lt_18_5	13	0.1669277839493516	0.2010956683423857	0.0112129100723371	0.0311298086400617
+M05_complement_coagulation_hemostasis	Complement, coagulation and hemostasis	8	BMI_lt_18_5	13	0.1996365924985333	0.374685750360811	0.0787932308599851	0.1300713652291818
+M06_ecm_vascular_tissue_repair	ECM, vascular biology, tissue repair and fibrosis	8	BMI_lt_18_5	13	0.2387659103625302	0.4170975176234662	0.0613372771290664	0.1092938682923748
+M01_inflammatory_acute_phase	Inflammatory resolution and acute-phase response	17	BMI_ge_18_5	17	-0.4295861804853541	0.6212952435587608	0.0115602515509004	0.0311298086400617
+M10_macrophage_immunometabolism_mitochondrial	Macrophage immunometabolism and mitochondrial rewiring	17	BMI_ge_18_5	17	-0.3152691244513476	0.2788341179040869	0.0002604409235131	0.0054171712090738
+M14_vesicles_exosomes_trafficking	Vesicles, exosomes and protein/lipid trafficking	17	BMI_ge_18_5	17	-0.3052687581887983	0.263607767887288	0.0002067144108379	0.0053745746817871
+M09_antigen_processing_hla_proteasome	HLA/MHC, proteasome and antigen presentation	17	BMI_ge_18_5	17	-0.1034821410974239	0.2695454989588184	0.1330045475779613	0.1894859307959996
+M12_vitaminD_AMP_mucosal_humoral	Vitamin D, antimicrobial peptide and mucosal/humoral immunity proxy	17	BMI_ge_18_5	17	-0.0881527912248547	0.3101087886312759	0.2583336828065358	0.3101784296076001
+M07_phagocytosis_opsonophagocytosis_endocytosis	Phagocytosis, opsonophagocytosis and endocytosis	17	BMI_ge_18_5	17	-0.080666388437846	0.2140400178009636	0.139764378277314	0.1938066045445422
+M15_treatment_response_pk_safety_proxy	Treatment response, drug handling and safety proxy	17	BMI_ge_18_5	17	0.0808475489336904	0.2445220698303019	0.1916829542011064	0.2523421169229756
+M03_retinol_carrier_nutrition	Retinol, vitamin A and carrier-protein biology	17	BMI_ge_18_5	17	0.2566117822661204	0.9414245538492017	0.2776486273018901	0.3244433397685008
+M02_lipid_apolipoprotein_transport	Lipid, cholesterol and apolipoprotein transport	17	BMI_ge_18_5	17	0.3397856248002317	0.3855680577359638	0.0022351583297673	0.0137053927289297
+M05_complement_coagulation_hemostasis	Complement, coagulation and hemostasis	17	BMI_ge_18_5	17	0.3455086219465227	0.4712081196180827	0.008078259839135	0.0264328254243979
+M08_lysosome_autophagy_xenophagy_proxy	Lysosome, autophagy and xenophagy proxy	17	BMI_ge_18_5	17	0.425885118507429	0.3660890373096619	0.0001977073060104	0.0053745746817871
+M13_endocrine_systemic_immunometabolic	Endocrine and systemic immunometabolic signalling	17	BMI_ge_18_5	17	0.4281700668288286	0.3622333414937943	0.000169010262377	0.0053745746817871
+M06_ecm_vascular_tissue_repair	ECM, vascular biology, tissue repair and fibrosis	17	BMI_ge_18_5	17	0.50099698495629	0.4775303233767218	0.0005219324300751	0.0077544246754018
+M01_inflammatory_acute_phase	Inflammatory resolution and acute-phase response	17	BMI_lt_18_5	13	-0.5322832848704309	0.4963042179325299	0.0022403045806904	0.0137053927289297
+M14_vesicles_exosomes_trafficking	Vesicles, exosomes and protein/lipid trafficking	17	BMI_lt_18_5	13	-0.3921614229228825	1.0764931593766445	0.2135789904190042	0.2775777042542316
+M10_macrophage_immunometabolism_mitochondrial	Macrophage immunometabolism and mitochondrial rewiring	17	BMI_lt_18_5	13	-0.3256374777095076	0.6766432178882983	0.1082909903985012	0.1608894714492019
+M09_antigen_processing_hla_proteasome	HLA/MHC, proteasome and antigen presentation	17	BMI_lt_18_5	13	-0.1293229258645194	0.2647955806116343	0.1036903011312569	0.1588416356077788
+M07_phagocytosis_opsonophagocytosis_endocytosis	Phagocytosis, opsonophagocytosis and endocytosis	17	BMI_lt_18_5	13	-0.0686412194318855	0.2982159755328022	0.4227983652513221	0.4677769147461436
+M15_treatment_response_pk_safety_proxy	Treatment response, drug handling and safety proxy	17	BMI_lt_18_5	13	0.014883913442632	0.2699519765099373	0.8457525593953564	0.8457525593953564
+M12_vitaminD_AMP_mucosal_humoral	Vitamin D, antimicrobial peptide and mucosal/humoral immunity proxy	17	BMI_lt_18_5	13	0.0185308391556008	0.2946831997083034	0.8244491084035571	0.8406147771957837
+M03_retinol_carrier_nutrition	Retinol, vitamin A and carrier-protein biology	17	BMI_lt_18_5	13	0.0621562328543756	0.3588286224154852	0.5439567569631416	0.5832113682903787
+M02_lipid_apolipoprotein_transport	Lipid, cholesterol and apolipoprotein transport	17	BMI_lt_18_5	13	0.2273110281471015	0.3870200828661782	0.0557655021388602	0.1035645039721691
+M13_endocrine_systemic_immunometabolic	Endocrine and systemic immunometabolic signalling	17	BMI_lt_18_5	13	0.2849745899114596	0.2896679737203833	0.0040177795568677	0.0167139629565698
+M08_lysosome_autophagy_xenophagy_proxy	Lysosome, autophagy and xenophagy proxy	17	BMI_lt_18_5	13	0.3190593544461241	0.3231760630184515	0.0039265642791612	0.0167139629565698
+M05_complement_coagulation_hemostasis	Complement, coagulation and hemostasis	17	BMI_lt_18_5	13	0.3735659784198971	0.3700667596043566	0.0033902678509373	0.0167139629565698
+M06_ecm_vascular_tissue_repair	ECM, vascular biology, tissue repair and fibrosis	17	BMI_lt_18_5	13	0.4379294184711628	0.5269722971715035	0.0111426646613427	0.0311298086400617
+M01_inflammatory_acute_phase	Inflammatory resolution and acute-phase response	26	BMI_ge_18_5	17	-0.2729693386120125	0.635102267785657	0.0954126116766127	0.1503471456722383
+M14_vesicles_exosomes_trafficking	Vesicles, exosomes and protein/lipid trafficking	26	BMI_ge_18_5	17	-0.269713009093429	0.4703824458408541	0.0310532923977671	0.0645908481873557
+M10_macrophage_immunometabolism_mitochondrial	Macrophage immunometabolism and mitochondrial rewiring	26	BMI_ge_18_5	17	-0.2563945063095421	0.4044736320137716	0.0188126625154769	0.0444662932184
+M09_antigen_processing_hla_proteasome	HLA/MHC, proteasome and antigen presentation	26	BMI_ge_18_5	17	-0.1428628062517876	0.2960426150392671	0.0639957695082406	0.1109260004809504
+M07_phagocytosis_opsonophagocytosis_endocytosis	Phagocytosis, opsonophagocytosis and endocytosis	26	BMI_ge_18_5	17	-0.1058880591671252	0.1856144093702009	0.0318019563812028	0.0648510483067665
+M12_vitaminD_AMP_mucosal_humoral	Vitamin D, antimicrobial peptide and mucosal/humoral immunity proxy	26	BMI_ge_18_5	17	-0.0948410874217176	0.3640702344318662	0.2987197457710228	0.3413939951668832
+M15_treatment_response_pk_safety_proxy	Treatment response, drug handling and safety proxy	26	BMI_ge_18_5	17	0.2086721378088178	0.2827579502541225	0.0077545071457064	0.0264328254243979
+M05_complement_coagulation_hemostasis	Complement, coagulation and hemostasis	26	BMI_ge_18_5	17	0.2791480187035975	0.5855410212989512	0.066943663970018	0.1141334598833094
+M08_lysosome_autophagy_xenophagy_proxy	Lysosome, autophagy and xenophagy proxy	26	BMI_ge_18_5	17	0.289024712351455	0.4745871486042363	0.0231566493139618	0.0535175895256006
+M02_lipid_apolipoprotein_transport	Lipid, cholesterol and apolipoprotein transport	26	BMI_ge_18_5	17	0.4276616521804576	0.4548436187349102	0.0013378560772745	0.010480366817259
+M13_endocrine_systemic_immunometabolic	Endocrine and systemic immunometabolic signalling	26	BMI_ge_18_5	17	0.4708063991831518	0.4677324171083833	0.0007530132581625	0.0089397965451669
+M06_ecm_vascular_tissue_repair	ECM, vascular biology, tissue repair and fibrosis	26	BMI_ge_18_5	17	0.4748734765418034	0.5674744159796243	0.0032915285237986	0.0167139629565698
+M03_retinol_carrier_nutrition	Retinol, vitamin A and carrier-protein biology	26	BMI_ge_18_5	17	0.4835468389090739	0.9712968940719154	0.0568387921047423	0.103705866296372
+M01_inflammatory_acute_phase	Inflammatory resolution and acute-phase response	26	BMI_lt_18_5	13	-0.6014670933348005	0.6851562364299031	0.0081426552798737	0.0264328254243979
+M10_macrophage_immunometabolism_mitochondrial	Macrophage immunometabolism and mitochondrial rewiring	26	BMI_lt_18_5	13	-0.2598397698512555	0.3620986723462641	0.0237749527507547	0.0537520670886628
+M09_antigen_processing_hla_proteasome	HLA/MHC, proteasome and antigen presentation	26	BMI_lt_18_5	13	-0.1928048431025192	0.1685709086923845	0.0014108186100156	0.010480366817259
+M14_vesicles_exosomes_trafficking	Vesicles, exosomes and protein/lipid trafficking	26	BMI_lt_18_5	13	-0.1663122963102125	0.340718117465806	0.1038579925127784	0.1588416356077788
+M07_phagocytosis_opsonophagocytosis_endocytosis	Phagocytosis, opsonophagocytosis and endocytosis	26	BMI_lt_18_5	13	-0.0472100365458183	0.1773935220412787	0.3562164636476319	0.4026794806451491
+M12_vitaminD_AMP_mucosal_humoral	Vitamin D, antimicrobial peptide and mucosal/humoral immunity proxy	26	BMI_lt_18_5	13	-0.0203754362119658	0.3588479508935226	0.8412193316168916	0.8457525593953564
+M15_treatment_response_pk_safety_proxy	Treatment response, drug handling and safety proxy	26	BMI_lt_18_5	13	0.1030270585603455	0.2925960137864576	0.2283087676490338	0.2895623394573111
+M03_retinol_carrier_nutrition	Retinol, vitamin A and carrier-protein biology	26	BMI_lt_18_5	13	0.2593230889029957	0.7899435572923108	0.2594761863063578	0.3101784296076001
+M02_lipid_apolipoprotein_transport	Lipid, cholesterol and apolipoprotein transport	26	BMI_lt_18_5	13	0.2742731313275652	0.4511043459248282	0.0488159613001806	0.092306545003978
+M08_lysosome_autophagy_xenophagy_proxy	Lysosome, autophagy and xenophagy proxy	26	BMI_lt_18_5	13	0.3015337587130349	0.2909981259505819	0.0028421629894988	0.016421386161549
+M05_complement_coagulation_hemostasis	Complement, coagulation and hemostasis	26	BMI_lt_18_5	13	0.3079070574210787	0.3542362048042896	0.0086275936427016	0.0264328254243979
+M13_endocrine_systemic_immunometabolic	Endocrine and systemic immunometabolic signalling	26	BMI_lt_18_5	13	0.366410538841789	0.3356906509217944	0.0019789031776236	0.0137053927289297
+M06_ecm_vascular_tissue_repair	ECM, vascular biology, tissue repair and fibrosis	26	BMI_lt_18_5	13	0.432086327841282	0.3489892576188047	0.0007736362394856	0.0089397965451669
+M14_vesicles_exosomes_trafficking	Vesicles, exosomes and protein/lipid trafficking	52	BMI_ge_18_5	17	-0.299215317324089	0.3922000539779405	0.0062529303103079	0.0240853611952601
+M01_inflammatory_acute_phase	Inflammatory resolution and acute-phase response	52	BMI_ge_18_5	17	-0.2845303532011539	0.707607946515453	0.116809369377488	0.1687246446563716
+M10_macrophage_immunometabolism_mitochondrial	Macrophage immunometabolism and mitochondrial rewiring	52	BMI_ge_18_5	17	-0.2764104163977515	0.4185944554686902	0.0150576992840533	0.0381951396473549
+M12_vitaminD_AMP_mucosal_humoral	Vitamin D, antimicrobial peptide and mucosal/humoral immunity proxy	52	BMI_ge_18_5	17	-0.2025717989482271	0.338504636048086	0.0252764148431621	0.0547655654935179
+M09_antigen_processing_hla_proteasome	HLA/MHC, proteasome and antigen presentation	52	BMI_ge_18_5	17	-0.135468805226483	0.2913100362677507	0.0732214993460537	0.1228231601933805
+M07_phagocytosis_opsonophagocytosis_endocytosis	Phagocytosis, opsonophagocytosis and endocytosis	52	BMI_ge_18_5	17	-0.1273686035387408	0.184514094104061	0.0116736782400231	0.0311298086400617
+M15_treatment_response_pk_safety_proxy	Treatment response, drug handling and safety proxy	52	BMI_ge_18_5	17	0.3199216663977048	0.3779159295952032	0.0030243655007608	0.016554421688375
+M08_lysosome_autophagy_xenophagy_proxy	Lysosome, autophagy and xenophagy proxy	52	BMI_ge_18_5	17	0.3296102493021157	0.5117888948084489	0.017276833872955	0.0427807314949362
+M05_complement_coagulation_hemostasis	Complement, coagulation and hemostasis	52	BMI_ge_18_5	17	0.3581960029286368	0.632095167379545	0.0328005196131114	0.0656010392262228
+M06_ecm_vascular_tissue_repair	ECM, vascular biology, tissue repair and fibrosis	52	BMI_ge_18_5	17	0.540641876033995	0.5555798103901042	0.0010057945761699	0.0095093305383338
+M02_lipid_apolipoprotein_transport	Lipid, cholesterol and apolipoprotein transport	52	BMI_ge_18_5	17	0.57859619746584	0.5264600824418109	0.0003406848206532	0.0059052035579903
+M13_endocrine_systemic_immunometabolic	Endocrine and systemic immunometabolic signalling	52	BMI_ge_18_5	17	0.5808400741042462	0.4619211982460217	9.036809416341825e-05	0.0053745746817871
+M03_retinol_carrier_nutrition	Retinol, vitamin A and carrier-protein biology	52	BMI_ge_18_5	17	0.7816033439984453	1.056088962458023	0.007615173010155	0.0264328254243979
+M01_inflammatory_acute_phase	Inflammatory resolution and acute-phase response	52	BMI_lt_18_5	13	-0.5406380726350702	0.7147352973164846	0.0183580007257868	0.0444007459414379
+M10_macrophage_immunometabolism_mitochondrial	Macrophage immunometabolism and mitochondrial rewiring	52	BMI_lt_18_5	13	-0.1690025898339687	0.4047411190067658	0.1580501514434938	0.2134703344171865
+M07_phagocytosis_opsonophagocytosis_endocytosis	Phagocytosis, opsonophagocytosis and endocytosis	52	BMI_lt_18_5	13	-0.1685811976055556	0.1470298729415034	0.0013854660248971	0.010480366817259
+M14_vesicles_exosomes_trafficking	Vesicles, exosomes and protein/lipid trafficking	52	BMI_lt_18_5	13	-0.1633157219319444	0.3376049489919554	0.1066623673582864	0.1607664667429244
+M09_antigen_processing_hla_proteasome	HLA/MHC, proteasome and antigen presentation	52	BMI_lt_18_5	13	-0.1418640018020382	0.281281565871995	0.0940255833590087	0.1503471456722383
+M12_vitaminD_AMP_mucosal_humoral	Vitamin D, antimicrobial peptide and mucosal/humoral immunity proxy	52	BMI_lt_18_5	13	0.0334561001419098	0.5208338395259884	0.8207471506085869	0.8406147771957837
+M15_treatment_response_pk_safety_proxy	Treatment response, drug handling and safety proxy	52	BMI_lt_18_5	13	0.2137033163101568	0.3331618688929826	0.0392803945956217	0.0770785101498993
+M05_complement_coagulation_hemostasis	Complement, coagulation and hemostasis	52	BMI_lt_18_5	13	0.2520156298873966	0.4415502285978043	0.062003252204328	0.1092938682923748
+M08_lysosome_autophagy_xenophagy_proxy	Lysosome, autophagy and xenophagy proxy	52	BMI_lt_18_5	13	0.3304396679233756	0.3302396128363902	0.0035945243445519	0.0167139629565698
+M13_endocrine_systemic_immunometabolic	Endocrine and systemic immunometabolic signalling	52	BMI_lt_18_5	13	0.4547923428991264	0.3742394909458016	0.0008937494104293	0.0092949938684648
+M06_ecm_vascular_tissue_repair	ECM, vascular biology, tissue repair and fibrosis	52	BMI_lt_18_5	13	0.4562426079129345	0.525036298413069	0.0086415006195147	0.0264328254243979
+M02_lipid_apolipoprotein_transport	Lipid, cholesterol and apolipoprotein transport	52	BMI_lt_18_5	13	0.4666223302614873	0.4802152998968452	0.0043537712594541	0.0174150850378166
+M03_retinol_carrier_nutrition	Retinol, vitamin A and carrier-protein biology	52	BMI_lt_18_5	13	0.6088556904770264	0.7181599336188953	0.0099583635935337	0.0295905661065003

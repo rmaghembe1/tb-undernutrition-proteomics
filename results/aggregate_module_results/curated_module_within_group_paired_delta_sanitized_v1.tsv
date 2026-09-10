@@ -1,0 +1,89 @@
+module_id	module_label	visit_week	baseline_bmi_group	n	mean_delta_from_week0	sd_delta_from_week0	one_sample_t_p_vs_zero	one_sample_t_q_BH_global
+M01_curated_inflammatory_acute_phase	Curated inflammatory and acute-phase response	8	BMI_ge_18_5	17	-0.43239552404214504	0.5243260339836359	0.0036586362255409594	0.008733393174039634
+M01_curated_inflammatory_acute_phase	Curated inflammatory and acute-phase response	8	BMI_lt_18_5	13	-0.5854246765794523	0.3886882340933732	0.00015237768897397255	0.0007887786252770344
+M01_curated_inflammatory_acute_phase	Curated inflammatory and acute-phase response	17	BMI_ge_18_5	17	-0.5181495092237977	0.5503092440210461	0.0013225793302978058	0.004018698193494095
+M01_curated_inflammatory_acute_phase	Curated inflammatory and acute-phase response	17	BMI_lt_18_5	13	-0.651247761607623	0.43067700017225163	0.00014715795735417518	0.0007887786252770344
+M01_curated_inflammatory_acute_phase	Curated inflammatory and acute-phase response	26	BMI_ge_18_5	17	-0.4374927383771709	0.5890777410147868	0.007447535071332818	0.014564068583939735
+M01_curated_inflammatory_acute_phase	Curated inflammatory and acute-phase response	26	BMI_lt_18_5	13	-0.7071872553030792	0.5836451300548191	0.0009141925520737037	0.0033520393576035802
+M01_curated_inflammatory_acute_phase	Curated inflammatory and acute-phase response	52	BMI_ge_18_5	17	-0.46893396919521657	0.5600047763639678	0.0032756425862500564	0.008733393174039634
+M01_curated_inflammatory_acute_phase	Curated inflammatory and acute-phase response	52	BMI_lt_18_5	13	-0.7716586716947874	0.5373917250273763	0.00023034818349385833	0.0010668757972347124
+M02_curated_lipid_apolipoprotein_transport	Curated lipid, cholesterol and apolipoprotein transport	8	BMI_ge_18_5	17	0.2120500284928769	0.4692947091105452	0.08092218634773066	0.11126800622812966
+M02_curated_lipid_apolipoprotein_transport	Curated lipid, cholesterol and apolipoprotein transport	8	BMI_lt_18_5	13	-0.03365766617604098	0.4167134792441012	0.7758570702511587	0.807299247224976
+M02_curated_lipid_apolipoprotein_transport	Curated lipid, cholesterol and apolipoprotein transport	17	BMI_ge_18_5	17	0.3661712610181331	0.3912242357186965	0.001388510415064866	0.004072963884190274
+M02_curated_lipid_apolipoprotein_transport	Curated lipid, cholesterol and apolipoprotein transport	17	BMI_lt_18_5	13	0.25584300007482086	0.4131542025020928	0.04538857999100711	0.06769822100353602
+M02_curated_lipid_apolipoprotein_transport	Curated lipid, cholesterol and apolipoprotein transport	26	BMI_ge_18_5	17	0.46584698624680115	0.4570237077974321	0.0006746667867378953	0.002581333792736295
+M02_curated_lipid_apolipoprotein_transport	Curated lipid, cholesterol and apolipoprotein transport	26	BMI_lt_18_5	13	0.30104799336564814	0.46459748246179805	0.03763689839324676	0.060219037429194815
+M02_curated_lipid_apolipoprotein_transport	Curated lipid, cholesterol and apolipoprotein transport	52	BMI_ge_18_5	17	0.6269829533358315	0.5422674789388156	0.00020990082106987212	0.0010261817918971526
+M02_curated_lipid_apolipoprotein_transport	Curated lipid, cholesterol and apolipoprotein transport	52	BMI_lt_18_5	13	0.5195045965989521	0.5144040625837523	0.003379986158330002	0.008733393174039634
+M03a_curated_retinol_carrier_strict	Curated retinol carrier strict	8	BMI_ge_18_5	17	0.6108859291878511	0.6401250103865715	0.0011838240278197031	0.003858389424004958
+M03a_curated_retinol_carrier_strict	Curated retinol carrier strict	8	BMI_lt_18_5	13	0.3979175531197519	0.4877364669985504	0.012335881561457027	0.022817642597839197
+M03a_curated_retinol_carrier_strict	Curated retinol carrier strict	17	BMI_ge_18_5	17	0.9585395506859837	0.6208052872692303	9.355882342632857e-06	9.147973846129905e-05
+M03a_curated_retinol_carrier_strict	Curated retinol carrier strict	17	BMI_lt_18_5	13	0.6896685209487081	0.452360588766582	0.00013690930263915373	0.0007887786252770344
+M03a_curated_retinol_carrier_strict	Curated retinol carrier strict	26	BMI_ge_18_5	17	1.134176677758091	0.6277568373518677	1.3813544352043999e-06	3.376446113337411e-05
+M03a_curated_retinol_carrier_strict	Curated retinol carrier strict	26	BMI_lt_18_5	13	1.04616700416214	0.7408129775440945	0.00026543122780050594	0.001112283240306882
+M03a_curated_retinol_carrier_strict	Curated retinol carrier strict	52	BMI_ge_18_5	17	1.2543071111474964	0.519301155671127	2.9089874710726173e-08	2.559908974543903e-06
+M03a_curated_retinol_carrier_strict	Curated retinol carrier strict	52	BMI_lt_18_5	13	1.2878823958565637	0.5445697522164981	1.9453291373270584e-06	3.423779281695623e-05
+M03b_curated_nutrition_carrier_broad	Curated nutrition carrier broad	8	BMI_ge_18_5	17	0.44389565177082785	0.5405551867948466	0.003771237961517115	0.008733393174039634
+M03b_curated_nutrition_carrier_broad	Curated nutrition carrier broad	8	BMI_lt_18_5	13	0.2944315301647858	0.4391695370060823	0.0324793834797822	0.05292936567075618
+M03b_curated_nutrition_carrier_broad	Curated nutrition carrier broad	17	BMI_ge_18_5	17	0.7131627670564127	0.4396031271512883	5.203781481348389e-06	7.632212839310971e-05
+M03b_curated_nutrition_carrier_broad	Curated nutrition carrier broad	17	BMI_lt_18_5	13	0.5938212472511706	0.45391845642809675	0.0004996881782576734	0.0019987527130306934
+M03b_curated_nutrition_carrier_broad	Curated nutrition carrier broad	26	BMI_ge_18_5	17	0.8298688467527127	0.5334933498095237	8.574782042717271e-06	9.147973846129905e-05
+M03b_curated_nutrition_carrier_broad	Curated nutrition carrier broad	26	BMI_lt_18_5	13	0.8089069270918294	0.4858074055439594	6.183238558112165e-05	0.0004946590846489732
+M03b_curated_nutrition_carrier_broad	Curated nutrition carrier broad	52	BMI_ge_18_5	17	0.9730055568298631	0.5312035487574567	1.1610549616360792e-06	3.376446113337411e-05
+M03b_curated_nutrition_carrier_broad	Curated nutrition carrier broad	52	BMI_lt_18_5	13	1.054655553169921	0.6818533494885259	0.00012049336803780317	0.0007573868848090485
+M05_curated_complement_coagulation	Curated complement, coagulation and hemostasis	8	BMI_ge_18_5	17	-0.03534992518415038	0.4727771501092242	0.7618406743024153	0.807299247224976
+M05_curated_complement_coagulation	Curated complement, coagulation and hemostasis	8	BMI_lt_18_5	13	-0.010456542416076057	0.37120833677642767	0.9207796705639477	0.9421931512747371
+M05_curated_complement_coagulation	Curated complement, coagulation and hemostasis	17	BMI_ge_18_5	17	0.07277982152977225	0.4924116625095818	0.5508114323290814	0.6294987798046644
+M05_curated_complement_coagulation	Curated complement, coagulation and hemostasis	17	BMI_lt_18_5	13	0.11794872079299192	0.359596964790164	0.25985850745224703	0.3193576194076895
+M05_curated_complement_coagulation	Curated complement, coagulation and hemostasis	26	BMI_ge_18_5	17	0.08665204226667446	0.5523308029368716	0.5269001693069312	0.6100949328817098
+M05_curated_complement_coagulation	Curated complement, coagulation and hemostasis	26	BMI_lt_18_5	13	0.061965641133680784	0.4629400523168214	0.6380555812423925	0.6931961870287721
+M05_curated_complement_coagulation	Curated complement, coagulation and hemostasis	52	BMI_ge_18_5	17	0.17540631440924817	0.6470338185590456	0.2801788277796615	0.33318563303527315
+M05_curated_complement_coagulation	Curated complement, coagulation and hemostasis	52	BMI_lt_18_5	13	0.07818638215933162	0.4847807730553902	0.571658524071686	0.6449480784398509
+M06_curated_ecm_vascular_repair	Curated ECM, vascular biology and tissue repair	8	BMI_ge_18_5	17	0.26813708256923413	0.5278175416842541	0.05248051820433791	0.0769714266996956
+M06_curated_ecm_vascular_repair	Curated ECM, vascular biology and tissue repair	8	BMI_lt_18_5	13	0.2833577531887537	0.44946274786295476	0.0422032608407081	0.0651559114733739
+M06_curated_ecm_vascular_repair	Curated ECM, vascular biology and tissue repair	17	BMI_ge_18_5	17	0.4847438065892221	0.5555267479512769	0.0024106119752761637	0.006843027542719432
+M06_curated_ecm_vascular_repair	Curated ECM, vascular biology and tissue repair	17	BMI_lt_18_5	13	0.4817862158435548	0.5346527487025898	0.006968903455012157	0.013937806910024313
+M06_curated_ecm_vascular_repair	Curated ECM, vascular biology and tissue repair	26	BMI_ge_18_5	17	0.49109088225819825	0.5970867517560375	0.0037290396223039284	0.008733393174039634
+M06_curated_ecm_vascular_repair	Curated ECM, vascular biology and tissue repair	26	BMI_lt_18_5	13	0.40511953687245505	0.39229097671616875	0.0029084449215532994	0.007998223534271574
+M06_curated_ecm_vascular_repair	Curated ECM, vascular biology and tissue repair	52	BMI_ge_18_5	17	0.5295168254816166	0.5624737517147813	0.0013243437228560085	0.004018698193494095
+M06_curated_ecm_vascular_repair	Curated ECM, vascular biology and tissue repair	52	BMI_lt_18_5	13	0.4406425234571525	0.5931140769347749	0.020086117250670856	0.03465839839331442
+M08_curated_lysosome_autophagy_proxy	Curated lysosome, autophagy and xenophagy proxy	8	BMI_ge_18_5	17	0.17401640433944965	0.32851542036909187	0.04419239248881235	0.06705052653474977
+M08_curated_lysosome_autophagy_proxy	Curated lysosome, autophagy and xenophagy proxy	8	BMI_lt_18_5	13	0.036731610582343026	0.234661583950952	0.5828927790612874	0.6487569989238087
+M08_curated_lysosome_autophagy_proxy	Curated lysosome, autophagy and xenophagy proxy	17	BMI_ge_18_5	17	0.264118845839194	0.33176863086885927	0.004690197615491238	0.010318434754080725
+M08_curated_lysosome_autophagy_proxy	Curated lysosome, autophagy and xenophagy proxy	17	BMI_lt_18_5	13	0.14694788713668752	0.3047078647139593	0.10763266625218748	0.14351022166958333
+M08_curated_lysosome_autophagy_proxy	Curated lysosome, autophagy and xenophagy proxy	26	BMI_ge_18_5	17	0.1486441252278133	0.4282424802650981	0.17163214792982714	0.22211219143859984
+M08_curated_lysosome_autophagy_proxy	Curated lysosome, autophagy and xenophagy proxy	26	BMI_lt_18_5	13	0.23456381637363302	0.42479532091039934	0.06975725717102771	0.09743870842937205
+M08_curated_lysosome_autophagy_proxy	Curated lysosome, autophagy and xenophagy proxy	52	BMI_ge_18_5	17	0.1897877912961548	0.4023163247669948	0.06956289877557668	0.09743870842937205
+M08_curated_lysosome_autophagy_proxy	Curated lysosome, autophagy and xenophagy proxy	52	BMI_lt_18_5	13	0.19429253328774887	0.34167982979260647	0.06284311717948445	0.09065892314417427
+M09_curated_hla_proteasome_antigen	Curated HLA, proteasome and antigen presentation	8	BMI_ge_18_5	17	-0.2074598530732178	0.2547126346304728	0.0039974686162128886	0.009019929185300877
+M09_curated_hla_proteasome_antigen	Curated HLA, proteasome and antigen presentation	8	BMI_lt_18_5	13	-0.053320357454324806	0.34704445570400777	0.5897790899307351	0.6487569989238087
+M09_curated_hla_proteasome_antigen	Curated HLA, proteasome and antigen presentation	17	BMI_ge_18_5	17	-0.22870955283844366	0.29740958150178753	0.005931908577264613	0.012428760828554427
+M09_curated_hla_proteasome_antigen	Curated HLA, proteasome and antigen presentation	17	BMI_lt_18_5	13	-0.1080886746675569	0.278750340421813	0.18739073416487914	0.23899108125375892
+M09_curated_hla_proteasome_antigen	Curated HLA, proteasome and antigen presentation	26	BMI_ge_18_5	17	-0.2289214494060614	0.23425979594959387	0.0009707012774201684	0.0034168684965189926
+M09_curated_hla_proteasome_antigen	Curated HLA, proteasome and antigen presentation	26	BMI_lt_18_5	13	-0.09686846475495721	0.2968226088447926	0.26213853319588515	0.3193576194076895
+M09_curated_hla_proteasome_antigen	Curated HLA, proteasome and antigen presentation	52	BMI_ge_18_5	17	-0.22692860448601077	0.176706977167281	7.256185557636002e-05	0.0005286616072928054
+M09_curated_hla_proteasome_antigen	Curated HLA, proteasome and antigen presentation	52	BMI_lt_18_5	13	-0.19918769954808713	0.2938047246362257	0.030907163232108424	0.05230443008510656
+M11_curated_metal_nutritional_immunity	Curated metal handling and nutritional immunity	8	BMI_ge_18_5	17	-0.3202084557560279	0.5602135258358897	0.03151525689441341	0.052327218994497736
+M11_curated_metal_nutritional_immunity	Curated metal handling and nutritional immunity	8	BMI_lt_18_5	13	-0.4825642920850599	0.5352959511536495	0.006951649575051619	0.013937806910024313
+M11_curated_metal_nutritional_immunity	Curated metal handling and nutritional immunity	17	BMI_ge_18_5	17	-0.37405736924250776	0.5506452048786256	0.012818705198977633	0.022817642597839197
+M11_curated_metal_nutritional_immunity	Curated metal handling and nutritional immunity	17	BMI_lt_18_5	13	-0.563412419084069	0.6016736482977177	0.005506004735877435	0.01181776626237108
+M11_curated_metal_nutritional_immunity	Curated metal handling and nutritional immunity	26	BMI_ge_18_5	17	-0.2976310278197829	0.6885005094708069	0.09367225530688794	0.12681782256932522
+M11_curated_metal_nutritional_immunity	Curated metal handling and nutritional immunity	26	BMI_lt_18_5	13	-0.609931297070905	0.6997334546118867	0.008487296359843705	0.01623656694926622
+M11_curated_metal_nutritional_immunity	Curated metal handling and nutritional immunity	52	BMI_ge_18_5	17	-0.32320695331847643	0.5930127249529271	0.039086891637562786	0.06142225828759867
+M11_curated_metal_nutritional_immunity	Curated metal handling and nutritional immunity	52	BMI_lt_18_5	13	-0.5856874327890869	0.7209654380833099	0.012626822987090718	0.022817642597839197
+M12_curated_vitaminD_AMP_humoral	Curated vitamin D, antimicrobial peptide and humoral proxy	8	BMI_ge_18_5	17	-0.006404471820342519	0.3256226801793632	0.93637229275775	0.9471351926745059
+M12_curated_vitaminD_AMP_humoral	Curated vitamin D, antimicrobial peptide and humoral proxy	8	BMI_lt_18_5	13	0.004524696407333791	0.2747894438511109	0.9536353025743632	0.9536353025743632
+M12_curated_vitaminD_AMP_humoral	Curated vitamin D, antimicrobial peptide and humoral proxy	17	BMI_ge_18_5	17	0.034852503462908385	0.3103589607513459	0.6495895757560828	0.6971205203236011
+M12_curated_vitaminD_AMP_humoral	Curated vitamin D, antimicrobial peptide and humoral proxy	17	BMI_lt_18_5	13	0.1162678442017845	0.25272798918293843	0.12305712510485677	0.16162726879443876
+M12_curated_vitaminD_AMP_humoral	Curated vitamin D, antimicrobial peptide and humoral proxy	26	BMI_ge_18_5	17	0.025173793743559575	0.36500284892392637	0.7797776819786699	0.807299247224976
+M12_curated_vitaminD_AMP_humoral	Curated vitamin D, antimicrobial peptide and humoral proxy	26	BMI_lt_18_5	13	0.0980173760707983	0.30219543325211123	0.264921661554106	0.3193576194076895
+M12_curated_vitaminD_AMP_humoral	Curated vitamin D, antimicrobial peptide and humoral proxy	52	BMI_ge_18_5	17	-0.06312647128296078	0.3719790882809381	0.4941574056071353	0.5798113559123721
+M12_curated_vitaminD_AMP_humoral	Curated vitamin D, antimicrobial peptide and humoral proxy	52	BMI_lt_18_5	13	0.1585017005860442	0.4495446387775659	0.22772675941078405	0.2862850689735571
+M13_curated_endocrine_immunometabolic	Curated endocrine and systemic immunometabolic signalling	8	BMI_ge_18_5	17	0.3744697810733055	0.45390168344121357	0.0036480587940762883	0.008733393174039634
+M13_curated_endocrine_immunometabolic	Curated endocrine and systemic immunometabolic signalling	8	BMI_lt_18_5	13	0.25913943047096244	0.3205487039245983	0.01296456965786318	0.022817642597839197
+M13_curated_endocrine_immunometabolic	Curated endocrine and systemic immunometabolic signalling	17	BMI_ge_18_5	17	0.624513248887297	0.34856561632645044	1.5347482333351869e-06	3.376446113337411e-05
+M13_curated_endocrine_immunometabolic	Curated endocrine and systemic immunometabolic signalling	17	BMI_lt_18_5	13	0.42168019094189835	0.35343655511519023	0.0010287417179436808	0.0034818950453478427
+M13_curated_endocrine_immunometabolic	Curated endocrine and systemic immunometabolic signalling	26	BMI_ge_18_5	17	0.6390065020413707	0.485457019984295	5.58852030973648e-05	0.0004917897872568102
+M13_curated_endocrine_immunometabolic	Curated endocrine and systemic immunometabolic signalling	26	BMI_lt_18_5	13	0.5378282860832253	0.33135040822930834	7.809773744098261e-05	0.0005286616072928054
+M13_curated_endocrine_immunometabolic	Curated endocrine and systemic immunometabolic signalling	52	BMI_ge_18_5	17	0.7190290834505549	0.45295570732164275	6.74639835614592e-06	8.481186504869157e-05
+M13_curated_endocrine_immunometabolic	Curated endocrine and systemic immunometabolic signalling	52	BMI_lt_18_5	13	0.6661784657448736	0.4715988172623445	0.00026478324326464935	0.001112283240306882
