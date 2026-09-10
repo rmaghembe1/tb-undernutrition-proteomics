@@ -3,6 +3,7 @@ message: "If you use this computational companion, please cite this repository r
 title: "TB Undernutrition Proteomics Computational Companion"
 type: software
 version: "1.0.0"
+date-released: "2026-09-10"
 repository-code: "https://github.com/rmaghembe1/tb-undernutrition-proteomics"
 authors:
   - family-names: "Maghembe"

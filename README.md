@@ -60,4 +60,6 @@ Machine-readable citation metadata are provided in `CITATION.cff`.
 
 Repository: https://github.com/rmaghembe1/tb-undernutrition-proteomics
 
-The repository DOI, release date, and associated-manuscript citation will be added when those records are formally established.
+Release: v1.0.0 (2026-09-10).
+
+The repository DOI and associated-manuscript citation will be added when those records are formally established.
