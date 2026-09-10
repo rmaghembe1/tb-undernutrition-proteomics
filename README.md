@@ -44,7 +44,7 @@ It represents coordinated longitudinal variation in circulating protein systems 
 
 ## Status
 
-This directory is a **pre-release public staging mirror**. It has not yet been pushed to GitHub or deposited in Zenodo.
+This repository hosts the public **v1.0.0 computational companion release**. The immutable v1.0.0 source release is available on GitHub and archived on Zenodo under DOI https://doi.org/10.5281/zenodo.22692544.
 
 ## Software environment
 
@@ -62,4 +62,6 @@ Repository: https://github.com/rmaghembe1/tb-undernutrition-proteomics
 
 Release: v1.0.0 (2026-09-10).
 
-The repository DOI and associated-manuscript citation will be added when those records are formally established.
+Zenodo DOI: https://doi.org/10.5281/zenodo.22692544
+
+The associated-manuscript citation will be added when that bibliographic record is formally established.
