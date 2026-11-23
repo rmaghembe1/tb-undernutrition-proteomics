@@ -1,0 +1,20 @@
+script	line_number	binding_type	target	argv_indices	expression
+F14_R5A_R1_analysis.py	27	ASSIGN	BASE	1	Path(sys.argv[1])
+F14_R5A_R1_analysis.py	28	ASSIGN	SAMPLE	2	Path(sys.argv[2])
+F14_R5A_R1_analysis.py	29	ASSIGN	LONG	3	Path(sys.argv[3])
+F14_R5A_R1_analysis.py	30	ASSIGN	S13	4	Path(sys.argv[4])
+F14_R5A_R1_analysis.py	31	ASSIGN	S14	5	Path(sys.argv[5])
+F14_R5A_R1_analysis.py	32	ASSIGN	S16	6	Path(sys.argv[6])
+F14_R5A_R1_analysis.py	33	ASSIGN	S17	7	Path(sys.argv[7])
+F14_R5A_R1_analysis.py	34	ASSIGN	OUT	8	Path(sys.argv[8])
+F14_R5A_R1_analysis.py	35	ASSIGN	AXIS_EXISTING	9	Path(sys.argv[9])
+F14_R5A_R2_addendum.py	14	ASSIGN	BASE	1	Path(sys.argv[1])
+F14_R5A_R2_addendum.py	15	ASSIGN	LONG	2	Path(sys.argv[2])
+F14_R5A_R2_addendum.py	16	ASSIGN	S13	3	Path(sys.argv[3])
+F14_R5A_R2_addendum.py	17	ASSIGN	S14	4	Path(sys.argv[4])
+F14_R5A_R2_addendum.py	18	ASSIGN	R5A	5	Path(sys.argv[5])
+F14_R5A_R2_addendum.py	19	ASSIGN	OUT	6	Path(sys.argv[6])
+F14_R5B1_analysis.py	18	ASSIGN	(LONG, MISSAUDIT, MIXFIT, MIXINT, MIXJOINT, OUT)	1:7	map(Path, sys.argv[1:7])
+F14_R5B1_analysis.py	25	DIRECT_REFERENCE		1:7	sys.argv[1:7]
+F14_R5B2_analysis.py	15	ASSIGN	(LONG, SUPPORT, STRICTINT, FITSTATUS, FROZENINT, CALIB, CALSUM, OUT)	1:9	map(Path, sys.argv[1:9])
+F14_R5B2_analysis.py	24	DIRECT_REFERENCE		1:9	sys.argv[1:9]
